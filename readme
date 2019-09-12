@@ -1,0 +1,12 @@
+**set up
+https://blog.csdn.net/LEON1741/article/details/56681718
+
+**tutorial
+http://monkeycoding.com/?page_id=5
+
+
+
+
+Note:
+*If you can't find Applications option while creating a new project:
+Tools menu-> Options -> Build & Run -> Qt Versions -> Add qmake file from /usr/local/Trolltech/Qt-4.5.6/bin/qmake
